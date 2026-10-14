@@ -10,8 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aarikatlasathwika05&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=aarikatlasathwika05&label=PROFILE%20VIEWS&countColor=%2300d4ff&style=for-the-badge)
 </div>
 
 ---
