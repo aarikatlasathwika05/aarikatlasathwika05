@@ -1,14 +1,16 @@
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-# 👋 Hi, I'm Aarikatla Sathwika
-
-### CSE (AI & ML) Student | Aspiring AI/ML Engineer 🤖
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aarikatla%20Sathwika&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20Student&descAlignY=58&descSize=20" width="100%" />
 
 <!-- Animated typing text: edit the lines= part to change the text (use + for spaces, ; to separate lines) -->
 <a href="https://github.com/aarikatlasathwika05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there!+I%27m+Sathwika+👋;CSE+(AI+%26+ML)+Student+🎓;Aspiring+AI/ML+Engineer+🤖;Building+AI-powered+tools+with+Python+%26+React+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sathwika+👋;CSE+(AI+%26+ML)+Student+🎓;Aspiring+AI/ML+Engineer+🤖;Building+AI-powered+tools+with+Python+%26+React+🚀" alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aarikatlasathwika05&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
